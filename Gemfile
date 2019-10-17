@@ -1,5 +1,7 @@
 # should specify rubygems as a source using the SSL protocol on the first line
 source "https://rubygems.org"
+
+#should contain the rspec gem in the test group using block
 gem "rspec"
 gem "sinatra", '1.4.4'
 gem "hashie"
