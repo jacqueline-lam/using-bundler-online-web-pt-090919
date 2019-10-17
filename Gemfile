@@ -10,4 +10,3 @@ gem "awesome_print", :git => "git@github.com:awesome-print/awesome_print.git"
 # should contain the pry gem in the development group using 
 # a hash argumentto the gem method
 gem "pry", :group => :development 
-
